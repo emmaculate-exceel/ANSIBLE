@@ -1,6 +1,4 @@
 <div align = "center">
-
-
 # The Algorithms - C#
 
 [![Discord chat](https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA)](https://discord.gg/c7MnfGFGa6)
