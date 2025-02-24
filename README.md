@@ -289,5 +289,9 @@ and refer to [our contributing guidelines](./CONTRIBUTING.md) for more details.
 If you want to ask a question or suggest something, please open an issue.
 
 
-
+<<<<<<< Updated upstream
 ## This is interesting
+=======
+
+
+>>>>>>> Stashed changes
